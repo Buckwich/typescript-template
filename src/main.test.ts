@@ -1,7 +1,7 @@
-import { helloWorld } from "./main";
+import { helloWorld } from './main';
 
-describe("main", () => {
-  test("helloWorld", () => {
-    expect(helloWorld()).toBe("Hello, World!");
+describe('main', () => {
+  test('helloWorld', () => {
+    expect(helloWorld()).toBe('Hello, World!');
   });
 });
