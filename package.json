@@ -4,5 +4,8 @@
   "main": "index.js",
   "repository": "git@github.com:Buckwich/typescript-template.git",
   "author": "Buckwich <Buckwich@users.noreply.github.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  }
 }
