@@ -1,0 +1,8 @@
+{
+  "name": "typescript-template",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Buckwich/typescript-template.git",
+  "author": "Buckwich <Buckwich@users.noreply.github.com>",
+  "license": "MIT"
+}
